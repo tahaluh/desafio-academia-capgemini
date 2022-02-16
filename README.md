@@ -11,7 +11,7 @@ Repositório com solução do desafio para seleção da Academia Capgemini
 
 ### <a id="Questoes">Questões do Processo Seletivo
 
-- [x] Algoritmo gerador de escada com "*"
+- [x] Algoritmo gerador de escada com asteriscos "*"
 - [x] Algoritmo que indica quantos caracteres faltam, no mínimo, para uma senha ser forte
 - [x] Algoritmo que encontra a quantidade de pares de substrings que são anagramas
 
